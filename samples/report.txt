@@ -1,0 +1,6 @@
+Threat report (fictional). The phishing mail came from billing@invoice-secure[.]example and linked to
+hxxps://login.invoice-secure[.]example/verify?id=7 . The loader evil.exe (SHA256
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855) beacons to 203.0.113.45 and
+2001:db8::1 every 60s, and also to 203[.]0[.]113[.]45. Internal host 10.1.2.3 was affected.
+MD5 d41d8cd98f00b204e9800998ecf8427e. Exploited CVE-2024-3094 and cve-2024-3094 for persistence.
+Version 1.2.3.4.5 is not an IP and 999.1.1.1 is invalid.
